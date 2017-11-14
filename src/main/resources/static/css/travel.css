@@ -58,7 +58,8 @@ style the elements with a class of page-row
 	width: 100%;
 	clear: both;
 	padding: 5%;
-	margin: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
 
@@ -164,7 +165,7 @@ style the element with the id of hero
 
 
 /*
- target the element with the id of navbare and float it to the right
+ target the element with the id of navbar and float it to the right
 */
 #navbar {
 	float: right;
@@ -261,13 +262,12 @@ th {
 
 
 
-
 /*
  target the element with the id of travel-table
   - make the text color black
   - make the background color white
 */
-#travel-table{
+#travel-table {
 	color: black;
 	background: white;
 }
